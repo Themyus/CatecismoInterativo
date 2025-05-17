@@ -1,4 +1,4 @@
-#CatecismoInterativo
+# Buscador de Catecismo por Palavra-chave
 
 Este projeto permite ao usuário buscar trechos do Catecismo Maior de São Pio X com base em palavras-chave. O sistema é simples e roda em console, utilizando Java puro.
 
